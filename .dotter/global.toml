@@ -1,0 +1,9 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+"README.md" = ""
+
+[default.variables]
