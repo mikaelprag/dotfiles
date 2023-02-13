@@ -7,3 +7,13 @@ depends = []
 "README.md" = ""
 
 [default.variables]
+
+[nvim.files]
+nvim = "~/.config/nvim"
+
+[zsh.files]
+"zsh/zshrc" = "~/.zshrc"
+
+[zsh.variables]
+theme = "avit"
+
